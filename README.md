@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush-uk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ayush-uk&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ayush-uk&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-uk&radius=20&theme=nightowl&area=true&order=5&hide_title=false&hide_border=false&custom_title=Ayush%20Contribution%20graph%F0%9F%93%88" height="400" alt="activity-graph graph"  />
 </div>
 
