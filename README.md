@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:3b0764,100:0d0d0d&height=180&section=header&text=Ayush%20Ukenday&fontSize=48&fontColor=e2d9f3&fontAlignY=50&desc=Full-Stack%20%E2%80%A2%20GenAI%20Engineer%20%E2%80%A2%20Builder&descSize=15&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:3b0764,100:0d0d0d&height=180&section=header&text=Ayush%20Kumar%20Ukenday&fontSize=42&fontColor=e2d9f3&fontAlignY=50&desc=Full-Stack%20%E2%80%A2%20GenAI%20Engineer%20%E2%80%A2%20Builder&descSize=15&descAlignY=70" width="100%"/>
 
 <br/>
 
@@ -86,7 +86,3 @@ I'm a Full-Stack & GenAI engineer from India 🇮🇳 — I build end-to-end AI-
 *Always open to something exciting — let's connect.*
 
 </div>
-
-
-
-
